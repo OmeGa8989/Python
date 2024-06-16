@@ -2,7 +2,7 @@
 height = float(input())
 # Enter your weight in kilograms e.g., 72
 weight = int(input())
-# 🚨 Don't change the code above 👆
+# 🚨 Don't change the code above 
 # Write your code below this line 👇
 bmi = (weight) / (height) * (height)
 if bmi < 18.5:
